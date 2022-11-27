@@ -16,7 +16,7 @@ import java.util.Properties;
  * @author irfan
  */
 
-//Class to retrieve connection for database and login verfication.
+
 public class ConnectionFactory {
 
     static final String driver = "com.mysql.cj.jdbc.Driver";
